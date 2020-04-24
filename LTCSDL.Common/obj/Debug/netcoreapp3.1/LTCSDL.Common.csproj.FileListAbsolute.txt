@@ -1,0 +1,44 @@
+F:/TestDotnet/LTCSDL/LTCSDL.Common/bin/Debug/netcoreapp3.1/LTCSDL.Common.deps.json
+F:/TestDotnet/LTCSDL/LTCSDL.Common/bin/Debug/netcoreapp3.1/LTCSDL.Common.dll
+F:/TestDotnet/LTCSDL/LTCSDL.Common/bin/Debug/netcoreapp3.1/LTCSDL.Common.pdb
+F:/TestDotnet/LTCSDL/LTCSDL.Common/obj/Debug/netcoreapp3.1/LTCSDL.Common.AssemblyInfoInputs.cache
+F:/TestDotnet/LTCSDL/LTCSDL.Common/obj/Debug/netcoreapp3.1/LTCSDL.Common.AssemblyInfo.cs
+F:/TestDotnet/LTCSDL/LTCSDL.Common/obj/Debug/netcoreapp3.1/LTCSDL.Common.dll
+F:/TestDotnet/LTCSDL/LTCSDL.Common/obj/Debug/netcoreapp3.1/LTCSDL.Common.pdb
+F:/TestDotnet/LTCSDL/LTCSDL.Common/obj/Debug/netcoreapp3.1/LTCSDL.Common.csprojAssemblyReference.cache
+C:/Users/myway/OneDrive/Máy tính/Desktop/_STUDY/Lap Trinh CSDL/LTCSDL-192/LTCSDL.Common/bin/Debug/netcoreapp3.1/LTCSDL.Common.deps.json
+C:/Users/myway/OneDrive/Máy tính/Desktop/_STUDY/Lap Trinh CSDL/LTCSDL-192/LTCSDL.Common/bin/Debug/netcoreapp3.1/LTCSDL.Common.dll
+C:/Users/myway/OneDrive/Máy tính/Desktop/_STUDY/Lap Trinh CSDL/LTCSDL-192/LTCSDL.Common/bin/Debug/netcoreapp3.1/LTCSDL.Common.pdb
+C:/Users/myway/OneDrive/Máy tính/Desktop/_STUDY/Lap Trinh CSDL/LTCSDL-192/LTCSDL.Common/obj/Debug/netcoreapp3.1/LTCSDL.Common.csprojAssemblyReference.cache
+C:/Users/myway/OneDrive/Máy tính/Desktop/_STUDY/Lap Trinh CSDL/LTCSDL-192/LTCSDL.Common/obj/Debug/netcoreapp3.1/LTCSDL.Common.csproj.CoreCompileInputs.cache
+C:/Users/myway/OneDrive/Máy tính/Desktop/_STUDY/Lap Trinh CSDL/LTCSDL-192/LTCSDL.Common/obj/Debug/netcoreapp3.1/LTCSDL.Common.AssemblyInfoInputs.cache
+C:/Users/myway/OneDrive/Máy tính/Desktop/_STUDY/Lap Trinh CSDL/LTCSDL-192/LTCSDL.Common/obj/Debug/netcoreapp3.1/LTCSDL.Common.AssemblyInfo.cs
+C:/Users/myway/OneDrive/Máy tính/Desktop/_STUDY/Lap Trinh CSDL/LTCSDL-192/LTCSDL.Common/obj/Debug/netcoreapp3.1/LTCSDL.Common.dll
+C:/Users/myway/OneDrive/Máy tính/Desktop/_STUDY/Lap Trinh CSDL/LTCSDL-192/LTCSDL.Common/obj/Debug/netcoreapp3.1/LTCSDL.Common.pdb
+/Users/nguyenthanhtu/Desktop/LTCSDL-192/LTCSDL.Common/bin/Debug/netcoreapp3.1/LTCSDL.Common.deps.json
+/Users/nguyenthanhtu/Desktop/LTCSDL-192/LTCSDL.Common/bin/Debug/netcoreapp3.1/LTCSDL.Common.dll
+/Users/nguyenthanhtu/Desktop/LTCSDL-192/LTCSDL.Common/bin/Debug/netcoreapp3.1/LTCSDL.Common.pdb
+/Users/nguyenthanhtu/Desktop/LTCSDL-192/LTCSDL.Common/obj/Debug/netcoreapp3.1/LTCSDL.Common.csprojAssemblyReference.cache
+/Users/nguyenthanhtu/Desktop/LTCSDL-192/LTCSDL.Common/obj/Debug/netcoreapp3.1/LTCSDL.Common.csproj.CoreCompileInputs.cache
+/Users/nguyenthanhtu/Desktop/LTCSDL-192/LTCSDL.Common/obj/Debug/netcoreapp3.1/LTCSDL.Common.AssemblyInfoInputs.cache
+/Users/nguyenthanhtu/Desktop/LTCSDL-192/LTCSDL.Common/obj/Debug/netcoreapp3.1/LTCSDL.Common.AssemblyInfo.cs
+/Users/nguyenthanhtu/Desktop/LTCSDL-192/LTCSDL.Common/obj/Debug/netcoreapp3.1/LTCSDL.Common.dll
+/Users/nguyenthanhtu/Desktop/LTCSDL-192/LTCSDL.Common/obj/Debug/netcoreapp3.1/LTCSDL.Common.pdb
+/Users/nguyenthanhtu/Desktop/LapTrinhCSDL/LTCSDL-192/LTCSDL.Common/bin/Debug/netcoreapp3.1/LTCSDL.Common.deps.json
+/Users/nguyenthanhtu/Desktop/LapTrinhCSDL/LTCSDL-192/LTCSDL.Common/bin/Debug/netcoreapp3.1/LTCSDL.Common.dll
+/Users/nguyenthanhtu/Desktop/LapTrinhCSDL/LTCSDL-192/LTCSDL.Common/bin/Debug/netcoreapp3.1/LTCSDL.Common.pdb
+/Users/nguyenthanhtu/Desktop/LapTrinhCSDL/LTCSDL-192/LTCSDL.Common/obj/Debug/netcoreapp3.1/LTCSDL.Common.csprojAssemblyReference.cache
+/Users/nguyenthanhtu/Desktop/LapTrinhCSDL/LTCSDL-192/LTCSDL.Common/obj/Debug/netcoreapp3.1/LTCSDL.Common.csproj.CoreCompileInputs.cache
+/Users/nguyenthanhtu/Desktop/LapTrinhCSDL/LTCSDL-192/LTCSDL.Common/obj/Debug/netcoreapp3.1/LTCSDL.Common.AssemblyInfoInputs.cache
+/Users/nguyenthanhtu/Desktop/LapTrinhCSDL/LTCSDL-192/LTCSDL.Common/obj/Debug/netcoreapp3.1/LTCSDL.Common.AssemblyInfo.cs
+/Users/nguyenthanhtu/Desktop/LapTrinhCSDL/LTCSDL-192/LTCSDL.Common/obj/Debug/netcoreapp3.1/LTCSDL.Common.dll
+/Users/nguyenthanhtu/Desktop/LapTrinhCSDL/LTCSDL-192/LTCSDL.Common/obj/Debug/netcoreapp3.1/LTCSDL.Common.pdb
+/Users/nguyenthanhtu/Desktop/NorthwindAPI/LTCSDL.Common/bin/Debug/netcoreapp3.1/LTCSDL.Common.deps.json
+/Users/nguyenthanhtu/Desktop/NorthwindAPI/LTCSDL.Common/bin/Debug/netcoreapp3.1/LTCSDL.Common.dll
+/Users/nguyenthanhtu/Desktop/NorthwindAPI/LTCSDL.Common/bin/Debug/netcoreapp3.1/LTCSDL.Common.pdb
+/Users/nguyenthanhtu/Desktop/NorthwindAPI/LTCSDL.Common/obj/Debug/netcoreapp3.1/LTCSDL.Common.csprojAssemblyReference.cache
+/Users/nguyenthanhtu/Desktop/NorthwindAPI/LTCSDL.Common/obj/Debug/netcoreapp3.1/LTCSDL.Common.csproj.CoreCompileInputs.cache
+/Users/nguyenthanhtu/Desktop/NorthwindAPI/LTCSDL.Common/obj/Debug/netcoreapp3.1/LTCSDL.Common.AssemblyInfoInputs.cache
+/Users/nguyenthanhtu/Desktop/NorthwindAPI/LTCSDL.Common/obj/Debug/netcoreapp3.1/LTCSDL.Common.AssemblyInfo.cs
+/Users/nguyenthanhtu/Desktop/NorthwindAPI/LTCSDL.Common/obj/Debug/netcoreapp3.1/LTCSDL.Common.dll
+/Users/nguyenthanhtu/Desktop/NorthwindAPI/LTCSDL.Common/obj/Debug/netcoreapp3.1/LTCSDL.Common.pdb
